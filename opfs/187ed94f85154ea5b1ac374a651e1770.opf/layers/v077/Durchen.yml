@@ -1,0 +1,80 @@
+id: e383f696d7514860a6406efadd9a5ee0
+annotation_type: Durchen
+revision: '00001'
+annotations:
+  dd3fe28daf65465c805de947239e69cc:
+    span:
+      start: 13200
+      end: 14136
+  099454cdd81747db99bf78d3b0c522d5:
+    span:
+      start: 17116
+      end: 17840
+  39d2175efde14892902cf52d65d836be:
+    span:
+      start: 37245
+      end: 40268
+  c8786ccd2f6b4910a57caee6c4bda80d:
+    span:
+      start: 44931
+      end: 46152
+  3f7596d15b41443296b7c4a870dc7fee:
+    span:
+      start: 63447
+      end: 65506
+  acda93dc5af44920ab32db2aed4814f8:
+    span:
+      start: 100604
+      end: 105758
+  17b9ab8d5573427fb500c08b069d6aa8:
+    span:
+      start: 449327
+      end: 497122
+  2df946cce4b240b3990822c8bb0b6885:
+    span:
+      start: 532261
+      end: 536131
+  49f46123fa8242a9b5211934fa0b58b9:
+    span:
+      start: 539971
+      end: 540623
+  8e2dfca611e84d47a0a7245c2783b83a:
+    span:
+      start: 624718
+      end: 636717
+  8ce2bf13ff8742a8afccd719b8559ca1:
+    span:
+      start: 718794
+      end: 731959
+  cb5c67b888cc4c598fa50646cf36ef46:
+    span:
+      start: 912539
+      end: 930560
+  16009df8a6e24b608d6d701070e96959:
+    span:
+      start: 1031217
+      end: 1041528
+  3c5fb05eb05a45109813c455869035f2:
+    span:
+      start: 1405507
+      end: 1443287
+  8aeb616d9a724197be26cf67acdfbeca:
+    span:
+      start: 2012634
+      end: 2110856
+local_ids:
+  dd3fe28daf65465c805de947239e69cc: 200000
+  099454cdd81747db99bf78d3b0c522d5: 200001
+  39d2175efde14892902cf52d65d836be: 200002
+  c8786ccd2f6b4910a57caee6c4bda80d: 200003
+  3f7596d15b41443296b7c4a870dc7fee: 200004
+  acda93dc5af44920ab32db2aed4814f8: 200005
+  17b9ab8d5573427fb500c08b069d6aa8: 200006
+  2df946cce4b240b3990822c8bb0b6885: 200007
+  49f46123fa8242a9b5211934fa0b58b9: 200008
+  8e2dfca611e84d47a0a7245c2783b83a: 200009
+  8ce2bf13ff8742a8afccd719b8559ca1: 200010
+  cb5c67b888cc4c598fa50646cf36ef46: 200011
+  16009df8a6e24b608d6d701070e96959: 200012
+  3c5fb05eb05a45109813c455869035f2: 200013
+  8aeb616d9a724197be26cf67acdfbeca: 200014

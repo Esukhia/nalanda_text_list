@@ -1,0 +1,80 @@
+id: 9b96c63c4f984db29bbdd97ef1befce2
+annotation_type: Peydurma
+revision: '00001'
+annotations:
+  371956a7afeb47e7877532ce2c1b917c:
+    span:
+      start: 718635
+      end: 718635
+  f190556e60364789af64e3128f0221c7:
+    span:
+      start: 1298845
+      end: 1298845
+  3ea4601d7a1d48209014f1bd43a0a03c:
+    span:
+      start: 1303091
+      end: 1303091
+  8ece4bc33b68426294ac26f688d39c97:
+    span:
+      start: 1308352
+      end: 1308352
+  29e40217a3a94e5e8b501a356d2d614c:
+    span:
+      start: 1313490
+      end: 1313490
+  dce8b56cde684b8d831e2283e710a54f:
+    span:
+      start: 1313504
+      end: 1313504
+  f20d393325a94878abc79772dafea197:
+    span:
+      start: 1313560
+      end: 1313560
+  4e6d9a88b21045d3be8e85cde9d94db0:
+    span:
+      start: 2136460
+      end: 2136460
+  c87aaa2aa7d5425fa1ca34cb93178c3c:
+    span:
+      start: 2155157
+      end: 2155157
+  c7e8a56b4b8b433b9176f2a4e7840399:
+    span:
+      start: 2158088
+      end: 2158088
+  c04ff405d0814826ae04e79393877729:
+    span:
+      start: 2181535
+      end: 2181535
+  7b01e4a36d9d42fba2bea8b325256c6c:
+    span:
+      start: 2278712
+      end: 2278712
+  d39530179a5a49f2888ac16211000ab1:
+    span:
+      start: 2510696
+      end: 2510696
+  67b1efbd42c343e789964667b84cc20a:
+    span:
+      start: 2514995
+      end: 2514995
+  a3c6938832834fe3815cf9eca310925c:
+    span:
+      start: 2523262
+      end: 2523262
+local_ids:
+  371956a7afeb47e7877532ce2c1b917c: 200000
+  f190556e60364789af64e3128f0221c7: 200001
+  3ea4601d7a1d48209014f1bd43a0a03c: 200002
+  8ece4bc33b68426294ac26f688d39c97: 200003
+  29e40217a3a94e5e8b501a356d2d614c: 200004
+  dce8b56cde684b8d831e2283e710a54f: 200005
+  f20d393325a94878abc79772dafea197: 200006
+  4e6d9a88b21045d3be8e85cde9d94db0: 200007
+  c87aaa2aa7d5425fa1ca34cb93178c3c: 200008
+  c7e8a56b4b8b433b9176f2a4e7840399: 200009
+  c04ff405d0814826ae04e79393877729: 200010
+  7b01e4a36d9d42fba2bea8b325256c6c: 200011
+  d39530179a5a49f2888ac16211000ab1: 200012
+  67b1efbd42c343e789964667b84cc20a: 200013
+  a3c6938832834fe3815cf9eca310925c: 200014

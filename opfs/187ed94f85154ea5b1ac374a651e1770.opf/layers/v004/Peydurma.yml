@@ -1,0 +1,90 @@
+id: bbcec1ae6a15454a9a103370f171212a
+annotation_type: Peydurma
+revision: '00001'
+annotations:
+  a92d7de782764fa1b55bbfc6dcb33c4a:
+    span:
+      start: 856
+      end: 856
+  c1714501ee77402694ce8996a9b07863:
+    span:
+      start: 1060811
+      end: 1060811
+  adbbb7b004784c23a885e7faf27fadb4:
+    span:
+      start: 1064238
+      end: 1064238
+  53ba5b72bc1c479597f6fd688cdc59a7:
+    span:
+      start: 1079771
+      end: 1079771
+  5488b05c146b4fb4ac9a838dc468386d:
+    span:
+      start: 1084096
+      end: 1084096
+  97c592f034724d09b93ba862040e1561:
+    span:
+      start: 1089118
+      end: 1089118
+  15d40672ce2d4f0e9a36d64091632510:
+    span:
+      start: 1090610
+      end: 1090610
+  f9a09570b8f24b9e932eee506423d24b:
+    span:
+      start: 1113631
+      end: 1113631
+  7cb1cb696ffe480692233d536dac874d:
+    span:
+      start: 1493510
+      end: 1493510
+  f844e6c1c11c4123a1c44c4b3eb6518d:
+    span:
+      start: 1496083
+      end: 1496083
+  eeea6b93efa0441aa2ae9c80c73db8fb:
+    span:
+      start: 1511585
+      end: 1511585
+  e512cfa264724bcbb5075c4259b6081b:
+    span:
+      start: 1669399
+      end: 1669399
+  92451cec947b4ea4be331aa666a7b87a:
+    span:
+      start: 2089584
+      end: 2089584
+  0a02d201ca5a40619098f531b98543a1:
+    span:
+      start: 2210315
+      end: 2210315
+  56d6900512084ea586f18a47b090369c:
+    span:
+      start: 2309511
+      end: 2309511
+  637678ceccdb43e08ff82c4ccf905f91:
+    span:
+      start: 2309512
+      end: 2309512
+  f9f06a60e76b4dbbbb595cb54d991601:
+    span:
+      start: 2309513
+      end: 2309513
+local_ids:
+  a92d7de782764fa1b55bbfc6dcb33c4a: 200000
+  c1714501ee77402694ce8996a9b07863: 200001
+  adbbb7b004784c23a885e7faf27fadb4: 200002
+  53ba5b72bc1c479597f6fd688cdc59a7: 200003
+  5488b05c146b4fb4ac9a838dc468386d: 200004
+  97c592f034724d09b93ba862040e1561: 200005
+  15d40672ce2d4f0e9a36d64091632510: 200006
+  f9a09570b8f24b9e932eee506423d24b: 200007
+  7cb1cb696ffe480692233d536dac874d: 200008
+  f844e6c1c11c4123a1c44c4b3eb6518d: 200009
+  eeea6b93efa0441aa2ae9c80c73db8fb: 200010
+  e512cfa264724bcbb5075c4259b6081b: 200011
+  92451cec947b4ea4be331aa666a7b87a: 200012
+  0a02d201ca5a40619098f531b98543a1: 200013
+  56d6900512084ea586f18a47b090369c: 200014
+  637678ceccdb43e08ff82c4ccf905f91: 200015
+  f9f06a60e76b4dbbbb595cb54d991601: 200016

@@ -1,0 +1,565 @@
+id: 961c424627e84e838a1d1e70e862e5b0
+annotation_type: Peydurma
+revision: '00001'
+annotations:
+  440d9c477a23445892b49364e9bae04b:
+    span:
+      start: 74856
+      end: 74856
+  804a5a8c4c6146b8a9a9d129dcf33e49:
+    span:
+      start: 76215
+      end: 76215
+  bcc2272b72e14a33a5fa4e024790e0b3:
+    span:
+      start: 76492
+      end: 76492
+  d0c7e4c150c849538662ed81e15cdaa9:
+    span:
+      start: 78315
+      end: 78315
+  42ba775f7c164858885f942c698aecaa:
+    span:
+      start: 258681
+      end: 258681
+  07aa5c12d2ff48c690c49fc34784206d:
+    span:
+      start: 259491
+      end: 259491
+  129b0551ff3445f3a255c0bc970dff72:
+    span:
+      start: 261133
+      end: 261133
+  7107961075bc47b39fef1d4378d4b554:
+    span:
+      start: 261152
+      end: 261152
+  112f5de839884109b745fe68cecc21fe:
+    span:
+      start: 261896
+      end: 261896
+  4ba19fb886e341e7b8f91fcee31e1445:
+    span:
+      start: 261952
+      end: 261952
+  de3e9f2496df448582d2b3d62a5197fa:
+    span:
+      start: 265849
+      end: 265849
+  6f224a0368c2463d9991e05008a1522e:
+    span:
+      start: 766423
+      end: 766423
+  f9e3e9968e274c02b41ced63eea3dd3a:
+    span:
+      start: 769216
+      end: 769216
+  d636ad369dd94909887f54de0364316b:
+    span:
+      start: 771151
+      end: 771151
+  3ec47689bfec4262b8c70fed1692621e:
+    span:
+      start: 772077
+      end: 772077
+  70e2b2c8154c45e5a7f5549da68e4d4c:
+    span:
+      start: 772650
+      end: 772650
+  c888bc3334fd416bb0f0912f338ca415:
+    span:
+      start: 774129
+      end: 774129
+  89ab8325151c405ba208d9e82e847377:
+    span:
+      start: 774505
+      end: 774505
+  cc5af189d5f049c7b855ff7d678d1264:
+    span:
+      start: 776337
+      end: 776337
+  3cb4383b67834932a3a647bc9400eea8:
+    span:
+      start: 778976
+      end: 778976
+  bcb438acfe9f4ab2bdbc0eda897f9107:
+    span:
+      start: 778994
+      end: 778994
+  8cb7cbe9d3c348269bca291e0e9fabd8:
+    span:
+      start: 779498
+      end: 779498
+  e24b2481001041b08f1ff28ca48d4b0a:
+    span:
+      start: 784430
+      end: 784430
+  ef66d533294b449ebe09152400d2c8c1:
+    span:
+      start: 786852
+      end: 786852
+  dd57244d89844bf8bfc4a666bb98a591:
+    span:
+      start: 787170
+      end: 787170
+  78ee94fa300240699f9b9e973e0a1b7d:
+    span:
+      start: 788187
+      end: 788187
+  351343f9586c42f4ac57fbec56bd57ed:
+    span:
+      start: 799262
+      end: 799262
+  275accf408a542c7931d0cf95bbfc25b:
+    span:
+      start: 800112
+      end: 800112
+  6288acded75a487eb6dc2780dfa33d36:
+    span:
+      start: 801051
+      end: 801051
+  d2d89cb6669344169f5d9fc7843602d1:
+    span:
+      start: 801052
+      end: 801052
+  fb49c16a88f84dadb4dd2f489c3e09de:
+    span:
+      start: 804284
+      end: 804284
+  02bbeb25f26a4c4e94c650244d0be2f3:
+    span:
+      start: 804293
+      end: 804293
+  52812a33cd15450ab4bda2127ac385fd:
+    span:
+      start: 806069
+      end: 806069
+  caca65a4e5444198ba70de8cd2e8f971:
+    span:
+      start: 816228
+      end: 816228
+  cd5ebfc70afb485393053999f7e8a1f9:
+    span:
+      start: 816232
+      end: 816232
+  6e3056f0d3764d14b5a6c9af2a2de2fe:
+    span:
+      start: 816382
+      end: 816382
+  6c2b79915d264756986acd8a41661141:
+    span:
+      start: 819112
+      end: 819112
+  0af7dcda8e534e31a8706b15cc9b24b9:
+    span:
+      start: 1017231
+      end: 1017231
+  64109d7d238045b8b3e15b4e033af31f:
+    span:
+      start: 1047428
+      end: 1047428
+  ca8283d444334aceac27c56296edecb6:
+    span:
+      start: 1048348
+      end: 1048348
+  307e8a4e303a44cebb1e8ba04be6af04:
+    span:
+      start: 1059081
+      end: 1059081
+  63f56ab3ed784eb99c680a388e021a55:
+    span:
+      start: 1059152
+      end: 1059152
+  2a1697d75d8847078cba68d66a73095a:
+    span:
+      start: 1062197
+      end: 1062197
+  9f9c7bc91d6a40d59f9360bd5471184b:
+    span:
+      start: 1063256
+      end: 1063256
+  8e2f73ac85f14a89a4aa6e35b763dd9a:
+    span:
+      start: 1064678
+      end: 1064678
+  ef5ba7157f034d0ba6a6c1f7c1650bc0:
+    span:
+      start: 1065076
+      end: 1065076
+  912f4cc5c89842cba3ff8eec9503cb25:
+    span:
+      start: 1065234
+      end: 1065234
+  c1bfecb0f5aa4e5e95763cf9b06b01f5:
+    span:
+      start: 1065693
+      end: 1065693
+  4d2b447c16a447678f4eb077beb1532b:
+    span:
+      start: 1065695
+      end: 1065695
+  6a0d1ff481ca44df9843a63ff7c3e77c:
+    span:
+      start: 1066188
+      end: 1066188
+  0871ad7650af4a20a3df28aebf102a16:
+    span:
+      start: 1069905
+      end: 1069905
+  42afef5a72264d2ca1ad230f334bb259:
+    span:
+      start: 1070528
+      end: 1070528
+  c9a007f7f9ea4187876dd398cafddcb2:
+    span:
+      start: 1070553
+      end: 1070553
+  3f2efe5532bd49d1b270b1cbabe6bb56:
+    span:
+      start: 1071258
+      end: 1071258
+  cb4b3a84ae8d48dca1925b23ff721b23:
+    span:
+      start: 1119114
+      end: 1119114
+  d252fa3877b4453e8183d3810ef86848:
+    span:
+      start: 1121939
+      end: 1121939
+  75e3894ab3fb480fa2e35477039e72be:
+    span:
+      start: 1123150
+      end: 1123150
+  98609f2e70dc4785b41bc1459b5c30e1:
+    span:
+      start: 1123177
+      end: 1123177
+  2a11b0f3620a45efb97d7015b6821b58:
+    span:
+      start: 1123619
+      end: 1123619
+  1eb07e01dd9244e88c9a630fedd7e014:
+    span:
+      start: 1197188
+      end: 1197188
+  77a5904a8ce14529b33dd2a91346dbf2:
+    span:
+      start: 1218135
+      end: 1218135
+  8039577e701248088cea69f642084a80:
+    span:
+      start: 1229451
+      end: 1229451
+  d468a7719d924c688e9aabb2179bcefe:
+    span:
+      start: 1282963
+      end: 1282963
+  d0eb54356292489fad86771ccef8735d:
+    span:
+      start: 1285632
+      end: 1285632
+  2109b83471b04b78a13ae1da930deff3:
+    span:
+      start: 1286151
+      end: 1286151
+  f41dc410d6c7432ea6fe7ce08bdf1b4a:
+    span:
+      start: 1286412
+      end: 1286412
+  c11c3fb4f0004d36a7d4da9323f946cb:
+    span:
+      start: 1289197
+      end: 1289197
+  a1342dd12d5f41d3b92a2bc73af8e6e7:
+    span:
+      start: 1403240
+      end: 1403240
+  c1850c4ff50f4862ab99b3a226a40c82:
+    span:
+      start: 1411052
+      end: 1411052
+  7e4f78a86e6745fcbdeb9532f6a8d5c9:
+    span:
+      start: 1415402
+      end: 1415402
+  38c7af041c3b4e248caa0f43ee783cc5:
+    span:
+      start: 1415672
+      end: 1415672
+  c999eaf4bf334ba2bc4ce8350d3465d7:
+    span:
+      start: 1422453
+      end: 1422453
+  279ea6b46be64e8692c526941b9182ef:
+    span:
+      start: 1422559
+      end: 1422559
+  8b25da037e9d4741a4df27424559f6a4:
+    span:
+      start: 1455725
+      end: 1455725
+  80aa9f62bdc749749409d9389483cbc0:
+    span:
+      start: 1515995
+      end: 1515995
+  7766306c4f9f4fffbb6196ab1e143ecd:
+    span:
+      start: 1515996
+      end: 1515996
+  9c5b94d4a5ba4e97b5aa9dc37c9d5590:
+    span:
+      start: 1519495
+      end: 1519495
+  8dc83412b27f4e9e9a072bdcc75085e7:
+    span:
+      start: 1610987
+      end: 1610987
+  91089e901b474921ae55e5512ddbb7e2:
+    span:
+      start: 1612914
+      end: 1612914
+  fd92c9f18f1e42d19718ffd95695726f:
+    span:
+      start: 1615228
+      end: 1615228
+  cc164d5242ad429691f7adf68a9c4e97:
+    span:
+      start: 1619674
+      end: 1619674
+  7030cd24969546d29d12452f6cb02bba:
+    span:
+      start: 1671505
+      end: 1671505
+  be8bed9dc1ab474696a653cd529b1f66:
+    span:
+      start: 1759286
+      end: 1759286
+  64bd62f484d343cbbf34876b3e70eb3c:
+    span:
+      start: 1760317
+      end: 1760317
+  44acdd84326e45bba8fbcdfe442a3a84:
+    span:
+      start: 1763743
+      end: 1763743
+  325d182a298e46d3887bcefcecf32aba:
+    span:
+      start: 1765965
+      end: 1765965
+  9aad84bd29484ce6bb41c06a04e585ef:
+    span:
+      start: 1766013
+      end: 1766013
+  cd009d7fda7c4ead9301cb787074b8b0:
+    span:
+      start: 1773060
+      end: 1773060
+  68319f3e1074431fb99220ea07bf6123:
+    span:
+      start: 1824506
+      end: 1824506
+  2ba293b42a6242eda883c71fc99d0f47:
+    span:
+      start: 1944309
+      end: 1944309
+  2bf176b175e34411aaf50d1e8ad5cb30:
+    span:
+      start: 1974793
+      end: 1974793
+  e617289ef5e248888f57a9c66b42158a:
+    span:
+      start: 1977085
+      end: 1977085
+  2110526df899489c90392b22ac550a2b:
+    span:
+      start: 2009808
+      end: 2009808
+  57cf533e0aa54af98b8515b47baa4a5e:
+    span:
+      start: 2138664
+      end: 2138664
+  215ca4e7baee49baabca6c7a7cd574d7:
+    span:
+      start: 2138682
+      end: 2138682
+  997257cef3644c44907aed5249d58b0c:
+    span:
+      start: 2139417
+      end: 2139417
+  f38c901a1eab445a9d087ade0101de4d:
+    span:
+      start: 2141695
+      end: 2141695
+  485ce74305e346ea8f527f33f050dd85:
+    span:
+      start: 2141941
+      end: 2141941
+  5847c257423d4efdb82c66db13c4feab:
+    span:
+      start: 2226146
+      end: 2226146
+  2982401d64e64218886cb22478169fb8:
+    span:
+      start: 2239705
+      end: 2239705
+  28009887a47e4acb81ff37b976191712:
+    span:
+      start: 2278068
+      end: 2278068
+  07b9bcb0768a4526af3af6a8deecf906:
+    span:
+      start: 2278238
+      end: 2278238
+  3adde30978654b028d0060b6b4f5e6be:
+    span:
+      start: 2289140
+      end: 2289140
+  138a28c42fd048a98152327ca2fa20b5:
+    span:
+      start: 2346985
+      end: 2346985
+  88c41853f67f4c4cbe2cf77bd336acb3:
+    span:
+      start: 2351047
+      end: 2351047
+  1ee213f188e14cec889de3445f680cd9:
+    span:
+      start: 2351108
+      end: 2351108
+  eaf90ebef38e499d879aa4e12f823c73:
+    span:
+      start: 2351213
+      end: 2351213
+  c15ab8b199f54c1689ba01479e39e559:
+    span:
+      start: 2351272
+      end: 2351272
+  2e17d767d47c4480bb0eefcb5238ca2e:
+    span:
+      start: 2351674
+      end: 2351674
+  88eefc2ca7944e14b6f21dabf308ffa0:
+    span:
+      start: 2440804
+      end: 2440804
+  b078344ba2804694a8b2c84098c6badf:
+    span:
+      start: 2441375
+      end: 2441375
+  a161a594059c439cb10cb221a31f0525:
+    span:
+      start: 2447678
+      end: 2447678
+local_ids:
+  440d9c477a23445892b49364e9bae04b: 200000
+  804a5a8c4c6146b8a9a9d129dcf33e49: 200001
+  bcc2272b72e14a33a5fa4e024790e0b3: 200002
+  d0c7e4c150c849538662ed81e15cdaa9: 200003
+  42ba775f7c164858885f942c698aecaa: 200004
+  07aa5c12d2ff48c690c49fc34784206d: 200005
+  129b0551ff3445f3a255c0bc970dff72: 200006
+  7107961075bc47b39fef1d4378d4b554: 200007
+  112f5de839884109b745fe68cecc21fe: 200008
+  4ba19fb886e341e7b8f91fcee31e1445: 200009
+  de3e9f2496df448582d2b3d62a5197fa: 200010
+  6f224a0368c2463d9991e05008a1522e: 200011
+  f9e3e9968e274c02b41ced63eea3dd3a: 200012
+  d636ad369dd94909887f54de0364316b: 200013
+  3ec47689bfec4262b8c70fed1692621e: 200014
+  70e2b2c8154c45e5a7f5549da68e4d4c: 200015
+  c888bc3334fd416bb0f0912f338ca415: 200016
+  89ab8325151c405ba208d9e82e847377: 200017
+  cc5af189d5f049c7b855ff7d678d1264: 200018
+  3cb4383b67834932a3a647bc9400eea8: 200019
+  bcb438acfe9f4ab2bdbc0eda897f9107: 200020
+  8cb7cbe9d3c348269bca291e0e9fabd8: 200021
+  e24b2481001041b08f1ff28ca48d4b0a: 200022
+  ef66d533294b449ebe09152400d2c8c1: 200023
+  dd57244d89844bf8bfc4a666bb98a591: 200024
+  78ee94fa300240699f9b9e973e0a1b7d: 200025
+  351343f9586c42f4ac57fbec56bd57ed: 200026
+  275accf408a542c7931d0cf95bbfc25b: 200027
+  6288acded75a487eb6dc2780dfa33d36: 200028
+  d2d89cb6669344169f5d9fc7843602d1: 200029
+  fb49c16a88f84dadb4dd2f489c3e09de: 200030
+  02bbeb25f26a4c4e94c650244d0be2f3: 200031
+  52812a33cd15450ab4bda2127ac385fd: 200032
+  caca65a4e5444198ba70de8cd2e8f971: 200033
+  cd5ebfc70afb485393053999f7e8a1f9: 200034
+  6e3056f0d3764d14b5a6c9af2a2de2fe: 200035
+  6c2b79915d264756986acd8a41661141: 200036
+  0af7dcda8e534e31a8706b15cc9b24b9: 200037
+  64109d7d238045b8b3e15b4e033af31f: 200038
+  ca8283d444334aceac27c56296edecb6: 200039
+  307e8a4e303a44cebb1e8ba04be6af04: 200040
+  63f56ab3ed784eb99c680a388e021a55: 200041
+  2a1697d75d8847078cba68d66a73095a: 200042
+  9f9c7bc91d6a40d59f9360bd5471184b: 200043
+  8e2f73ac85f14a89a4aa6e35b763dd9a: 200044
+  ef5ba7157f034d0ba6a6c1f7c1650bc0: 200045
+  912f4cc5c89842cba3ff8eec9503cb25: 200046
+  c1bfecb0f5aa4e5e95763cf9b06b01f5: 200047
+  4d2b447c16a447678f4eb077beb1532b: 200048
+  6a0d1ff481ca44df9843a63ff7c3e77c: 200049
+  0871ad7650af4a20a3df28aebf102a16: 200050
+  42afef5a72264d2ca1ad230f334bb259: 200051
+  c9a007f7f9ea4187876dd398cafddcb2: 200052
+  3f2efe5532bd49d1b270b1cbabe6bb56: 200053
+  cb4b3a84ae8d48dca1925b23ff721b23: 200054
+  d252fa3877b4453e8183d3810ef86848: 200055
+  75e3894ab3fb480fa2e35477039e72be: 200056
+  98609f2e70dc4785b41bc1459b5c30e1: 200057
+  2a11b0f3620a45efb97d7015b6821b58: 200058
+  1eb07e01dd9244e88c9a630fedd7e014: 200059
+  77a5904a8ce14529b33dd2a91346dbf2: 200060
+  8039577e701248088cea69f642084a80: 200061
+  d468a7719d924c688e9aabb2179bcefe: 200062
+  d0eb54356292489fad86771ccef8735d: 200063
+  2109b83471b04b78a13ae1da930deff3: 200064
+  f41dc410d6c7432ea6fe7ce08bdf1b4a: 200065
+  c11c3fb4f0004d36a7d4da9323f946cb: 200066
+  a1342dd12d5f41d3b92a2bc73af8e6e7: 200067
+  c1850c4ff50f4862ab99b3a226a40c82: 200068
+  7e4f78a86e6745fcbdeb9532f6a8d5c9: 200069
+  38c7af041c3b4e248caa0f43ee783cc5: 200070
+  c999eaf4bf334ba2bc4ce8350d3465d7: 200071
+  279ea6b46be64e8692c526941b9182ef: 200072
+  8b25da037e9d4741a4df27424559f6a4: 200073
+  80aa9f62bdc749749409d9389483cbc0: 200074
+  7766306c4f9f4fffbb6196ab1e143ecd: 200075
+  9c5b94d4a5ba4e97b5aa9dc37c9d5590: 200076
+  8dc83412b27f4e9e9a072bdcc75085e7: 200077
+  91089e901b474921ae55e5512ddbb7e2: 200078
+  fd92c9f18f1e42d19718ffd95695726f: 200079
+  cc164d5242ad429691f7adf68a9c4e97: 200080
+  7030cd24969546d29d12452f6cb02bba: 200081
+  be8bed9dc1ab474696a653cd529b1f66: 200082
+  64bd62f484d343cbbf34876b3e70eb3c: 200083
+  44acdd84326e45bba8fbcdfe442a3a84: 200084
+  325d182a298e46d3887bcefcecf32aba: 200085
+  9aad84bd29484ce6bb41c06a04e585ef: 200086
+  cd009d7fda7c4ead9301cb787074b8b0: 200087
+  68319f3e1074431fb99220ea07bf6123: 200088
+  2ba293b42a6242eda883c71fc99d0f47: 200089
+  2bf176b175e34411aaf50d1e8ad5cb30: 200090
+  e617289ef5e248888f57a9c66b42158a: 200091
+  2110526df899489c90392b22ac550a2b: 200092
+  57cf533e0aa54af98b8515b47baa4a5e: 200093
+  215ca4e7baee49baabca6c7a7cd574d7: 200094
+  997257cef3644c44907aed5249d58b0c: 200095
+  f38c901a1eab445a9d087ade0101de4d: 200096
+  485ce74305e346ea8f527f33f050dd85: 200097
+  5847c257423d4efdb82c66db13c4feab: 200098
+  2982401d64e64218886cb22478169fb8: 200099
+  28009887a47e4acb81ff37b976191712: 200100
+  07b9bcb0768a4526af3af6a8deecf906: 200101
+  3adde30978654b028d0060b6b4f5e6be: 200102
+  138a28c42fd048a98152327ca2fa20b5: 200103
+  88c41853f67f4c4cbe2cf77bd336acb3: 200104
+  1ee213f188e14cec889de3445f680cd9: 200105
+  eaf90ebef38e499d879aa4e12f823c73: 200106
+  c15ab8b199f54c1689ba01479e39e559: 200107
+  2e17d767d47c4480bb0eefcb5238ca2e: 200108
+  88eefc2ca7944e14b6f21dabf308ffa0: 200109
+  b078344ba2804694a8b2c84098c6badf: 200110
+  a161a594059c439cb10cb221a31f0525: 200111

@@ -1,0 +1,15 @@
+id: cabe432b5503406185e6ac84fdd816c7
+annotation_type: Durchen
+revision: '00001'
+annotations:
+  a5308419c76640638f4f5ab171df3d2f:
+    span:
+      start: 591669
+      end: 648124
+  6dfc9710515348caaa72c8396b54fea7:
+    span:
+      start: 1951027
+      end: 2044974
+local_ids:
+  a5308419c76640638f4f5ab171df3d2f: 200000
+  6dfc9710515348caaa72c8396b54fea7: 200001

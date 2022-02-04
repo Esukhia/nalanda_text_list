@@ -1,0 +1,85 @@
+id: f042b212bda24c159f9e95ab3b12e621
+annotation_type: Peydurma
+revision: '00001'
+annotations:
+  017aae3b17444a43b91ad4af62e46be0:
+    span:
+      start: 34314
+      end: 34314
+  45bd803c4fbd4f87a803df3543fb1d8e:
+    span:
+      start: 85760
+      end: 85760
+  c23deb170d4142318835a6cbb32dcb3b:
+    span:
+      start: 97276
+      end: 97276
+  1fb6a1c936a041ef88a195160fafb35d:
+    span:
+      start: 132373
+      end: 132373
+  f2c9be9265bf482da3b0575548d3dc90:
+    span:
+      start: 187094
+      end: 187094
+  79e40793ac684ebba70197d0251f0f1b:
+    span:
+      start: 447266
+      end: 447266
+  d6c858cdd9a84f84887f2437bd735c03:
+    span:
+      start: 447915
+      end: 447915
+  46fbd214d57949a49b9f8058c70cfcb3:
+    span:
+      start: 508606
+      end: 508606
+  4c9555cd4c4947ef98aefd4ab991f6d8:
+    span:
+      start: 513138
+      end: 513138
+  cff2f9a88899498583e8665a2d1398a8:
+    span:
+      start: 514260
+      end: 514260
+  ef1ce435efae4608ae4efa34a54dd302:
+    span:
+      start: 515118
+      end: 515118
+  5aabb87e47234df0a4df03ae1168dd3e:
+    span:
+      start: 534051
+      end: 534051
+  21e7639af800449e989252ff7de4413e:
+    span:
+      start: 642481
+      end: 642481
+  d8416e470d2643d7950a7bfd6985f911:
+    span:
+      start: 714284
+      end: 714284
+  ed9de01ded0a480cb1051cd12064504b:
+    span:
+      start: 882612
+      end: 882612
+  7b90a2dde1f9497b860c90fdc7458932:
+    span:
+      start: 1833835
+      end: 1833835
+local_ids:
+  017aae3b17444a43b91ad4af62e46be0: 200000
+  45bd803c4fbd4f87a803df3543fb1d8e: 200001
+  c23deb170d4142318835a6cbb32dcb3b: 200002
+  1fb6a1c936a041ef88a195160fafb35d: 200003
+  f2c9be9265bf482da3b0575548d3dc90: 200004
+  79e40793ac684ebba70197d0251f0f1b: 200005
+  d6c858cdd9a84f84887f2437bd735c03: 200006
+  46fbd214d57949a49b9f8058c70cfcb3: 200007
+  4c9555cd4c4947ef98aefd4ab991f6d8: 200008
+  cff2f9a88899498583e8665a2d1398a8: 200009
+  ef1ce435efae4608ae4efa34a54dd302: 200010
+  5aabb87e47234df0a4df03ae1168dd3e: 200011
+  21e7639af800449e989252ff7de4413e: 200012
+  d8416e470d2643d7950a7bfd6985f911: 200013
+  ed9de01ded0a480cb1051cd12064504b: 200014
+  7b90a2dde1f9497b860c90fdc7458932: 200015
