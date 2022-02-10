@@ -35,14 +35,14 @@ def get_text_list(list_path):
     return text_list
 
 if __name__ == "__main__":
-    parma = "derge_google_pedurma"
-    opf_path = Path('./opfs/12d32eb31c1a4cc59741cda99ebc7211.opf')
+    # parma = "derge_google_pedurma"
+    # opf_path = Path('./opfs/12d32eb31c1a4cc59741cda99ebc7211.opf')
     
-    # parma = "namsel_pedurma"
-    # opf_path = Path('./opfs/187ed94f85154ea5b1ac374a651e1770.opf')
+    parma = "namsel_pedurma"
+    opf_path = Path('./opfs/187ed94f85154ea5b1ac374a651e1770.opf')
     # text_ids = get_text_list(Path('./nalanda_text_need_to_prepare.txt'))
     text_ids = get_text_list(Path('./derge_text.txt'))
-    text_ids = ['D1793y',]
+    text_ids = ['D2731',]
     index = from_yaml((opf_path / "index.yml"))
     for text_id in text_ids:
         hfmls = get_hfml_text(opf_path, text_id, index=index)
