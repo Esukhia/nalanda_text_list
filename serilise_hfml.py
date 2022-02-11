@@ -25,8 +25,12 @@ def get_hfml_text(opf_path, text_id, index=None):
 
 
 def save_hfml(text_id, hfml, parma):
-    for vol_id, hfml_text in hfml.items():
-        Path(f'./hfml/{parma}/{text_id}_{vol_id}.txt').write_text(hfml_text, encoding='utf-8')
+    if hfml:
+        # for vol_id, hfml_text in hfml.items():
+        #     Path(f'./hfml/{parma}/{text_id}_{vol_id}.txt').write_text(hfml_text, encoding='utf-8')
+        print('')
+    else:
+        print(text_id)
 
 def get_text_list(list_path):
     text_list = list_path.read_text(encoding='utf-8').splitlines()
@@ -45,4 +49,4 @@ if __name__ == "__main__":
     for text_id in text_ids:
         hfmls = get_hfml_text(opf_path, text_id, index=index)
         save_hfml(text_id, hfmls, parma)
-        print(f'{text_id} completed ..')
+        # print(f'{text_id} completed ..')
