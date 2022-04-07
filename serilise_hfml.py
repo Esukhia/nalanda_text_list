@@ -44,7 +44,6 @@ if __name__ == "__main__":
     # parma = "namsel_pedurma"
     # opf_path = Path('./opfs/187ed94f85154ea5b1ac374a651e1770.opf')
     text_ids = get_text_list(Path('./narthang_text.txt'))
-    text_ids = ['Q5221', 'Q5700', 'Q5706', 'Q5811', 'Q5814']
     index = from_yaml((opf_path / "index.yml"))
     for text_id in text_ids:
         hfmls = get_hfml_text(opf_path, text_id, index=index)
