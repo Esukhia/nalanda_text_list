@@ -1,3 +1,4 @@
+from multiprocessing import AuthenticationError
 import re
 import csv
 from pathlib import Path
@@ -29,6 +30,15 @@ def get_page(nalanda_text_info, pub):
         page = preprocess_page(nalanda_text_info[9])
     return page
 
+def get_author_code(nalanda_info):
+    author = nalanda_info[7]
+    author_code = ""
+    if re.search("\d+", author):
+        author_tib_code = re.search("\d+", author)[0]
+        author_code = f'{int(author_tib_code):02}'
+    return author_code
+    
+
 def parse_kunsel_melong():
     karchak_file = open("kunsel_melong.csv")
 
@@ -52,6 +62,8 @@ def parse_kunsel_melong():
         cur_text['peking_page'] = peking_page
         peking_page = get_page(nalanda_text_info, pub="pedurma")
         cur_text['pedurma_page'] = peking_page
+        author_code = get_author_code(nalanda_text_info)
+        cur_text['author_code'] = author_code
         karchak[text_walker] = cur_text
     return karchak
 
