@@ -34,13 +34,31 @@ def transfer_durchen(derge_text, namsel_text, text_id, vol_id):
     Path(f'./hfml/new_derge/{text_id}_{vol_id}.txt').write_text(derge_text, encoding='utf-8')
     Path(f'./hfml/new_namsel/{text_id}_{vol_id}.txt').write_text(new_nam_text, encoding='utf-8')
 
+def merge_chenyik():
+    durchen = ""
+    page_paths = list(Path('./D4122/manual_notes').iterdir())
+    page_paths.sort()
+    for page_path in page_paths:
+        img_num = f"{int(page_path.stem):03}"
+        page = page_path.read_text(encoding="utf-8")
+        pg_num = int(img_num)-38
+        durchen += f"〔{img_num}〕\n{page}\n<p92-{pg_num}>\n"
+    chenney = re.sub("<s", "<r", durchen)
+    chenney = re.sub("\n(\d+)", "\n<u\g<1>>", chenney)
+    Path('./D4122_chenyik.txt').write_text(durchen, encoding='utf-8')
+    Path('./D4122_chenney.txt').write_text(chenney, encoding='utf-8')
+
+
+
 
 if __name__ == "__main__":
-    derge_paths = list(Path("./hfml/derge_google_pedurma").iterdir())
-    derge_paths.sort()
-    for derge_path in derge_paths:
-        text_id = derge_path.stem[:-5]
-        vol_id = derge_path.stem[-4:]
-        derge_text = derge_path.read_text(encoding='utf-8')
-        namsel_text = Path(f'./hfml/namsel_pedurma/{text_id}_{vol_id}.txt').read_text(encoding='utf-8')
-        transfer_durchen(derge_text, namsel_text, text_id, vol_id)
+    # derge_paths = list(Path("./hfml/derge_google_pedurma").iterdir())
+    # derge_paths.sort()
+    # for derge_path in derge_paths:
+    #     text_id = derge_path.stem[:-5]
+    #     vol_id = derge_path.stem[-4:]
+    #     derge_text = derge_path.read_text(encoding='utf-8')
+    #     namsel_text = Path(f'./hfml/namsel_pedurma/{text_id}_{vol_id}.txt').read_text(encoding='utf-8')
+    #     transfer_durchen(derge_text, namsel_text, text_id, vol_id)
+
+    merge_chenyik()

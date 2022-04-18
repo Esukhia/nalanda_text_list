@@ -2,7 +2,7 @@ import re
 import csv
 from pathlib import Path
 import yaml
-
+import json
 
 def to_yaml(dict_):
     return yaml.safe_dump(dict_, sort_keys=False, allow_unicode=True,)
@@ -66,11 +66,22 @@ def get_nalanda_text_list():
     nalanda_texts.sort()
     Path('./nalanda_text_list.txt').write_text("\n".join(nalanda_texts), encoding='utf-8')
 
+def get_ready_nalanda_text():
+    text_list = Path('./t_text_list.json').read_text(encoding='utf-8')
+    nalanda_text = json.loads(text_list)
+    nalanda_text_ready = []
+    for text_id, text in nalanda_text.items():
+        nalanda_text_ready.append(text_id)
+
+    nalanda_text_ready.sort()
+    Path('./nalanda_text_ready.txt').write_text("\n".join(nalanda_text_ready), encoding='utf-8')
+
     
 if __name__ == "__main__":
-    karchak_file = open("Nalanda_location.csv")
+    # karchak_file = open("Nalanda_location.csv")
 
-    esu_karchak_csvreader = csv.reader(karchak_file)
-    text_title_id_mapping = get_nalanda_text(esu_karchak_csvreader)
-    Path('./nalanda_text_title_id_mapping.yml').write_text(to_yaml(text_title_id_mapping), encoding="utf-8")
+    # esu_karchak_csvreader = csv.reader(karchak_file)
+    # text_title_id_mapping = get_nalanda_text(esu_karchak_csvreader)
+    # Path('./nalanda_text_title_id_mapping.yml').write_text(to_yaml(text_title_id_mapping), encoding="utf-8")
+    get_ready_nalanda_text()
     # get_nalanda_text()
